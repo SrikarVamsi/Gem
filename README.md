@@ -1,6 +1,6 @@
 # 💎 Gem – Select->Verify->Understand
 
-![Gem Logo](./assets/gem-logo.png)  
+![Gem Logo](https://github.com/SrikarVamsi/Gem/blob/main/logo.png)  
 > **Instant fact-checking, right where misinformation spreads.**  
 
 ---
