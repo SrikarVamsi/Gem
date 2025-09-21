@@ -1,6 +1,9 @@
 # 💎 Gem – Select->Verify->Understand
 
-![Gem Logo](https://github.com/SrikarVamsi/Gem/blob/main/logo.png)  
+<p align="center">
+  <img src="https://github.com/SrikarVamsi/Gem/blob/main/logo.png" alt="Gem Logo" width="200">
+</p>
+
 > **Instant fact-checking, right where misinformation spreads.**  
 
 ---
@@ -9,7 +12,7 @@
 Misinformation spreads faster than the truth.  
 From fake WhatsApp forwards to scam messages and manipulated news, it has become one of the **biggest threats to society**.  
 
-- ❌ Social unrest fueled by false claims  
+- ❌ Social unrest fueled by false claims   
 - ❌ Public health crises triggered by misinformation  
 - ❌ Financial scams stealing money from the vulnerable  
 
@@ -24,7 +27,7 @@ Meet **Gem**, your **real-time fact-checking Chrome extension**, powered by **Go
 ✨ Highlight text in your browser → Gem instantly verifies it using **trusted sources** and explains *why* it’s trustworthy or misleading.  
 
 ✅ **Instant Verdict** – Verified, Suspicious, or Fake  
-✅ **Confidence Score** – back by Gemini’s analysis  
+✅ **Confidence Score** – backed by Gemini’s analysis  
 ✅ **Source Evidence** – PIB, AltNews, WHO, Reuters, Wikipedia  
 ✅ **Scam Detection** – financial safety layer  
 ✅ **Explainable AI** – users learn while verifying  
@@ -50,7 +53,7 @@ Meet **Gem**, your **real-time fact-checking Chrome extension**, powered by **Go
 ## 🖼️ Screenshots
 
 | Select Text | Gemini Verifying | Results Displayed |
-|-------------|-----------------|-------------------|
+|-------------|-----------------|-----------------|
 | ![](./assets/step1.png) | ![](./assets/step2.png) | ![](./assets/step3.png) |
 
 ---
@@ -87,10 +90,17 @@ Meet **Gem**, your **real-time fact-checking Chrome extension**, powered by **Go
 
 ---
 
-## ⚡ Quick Start
+## ⚡ Quick Start (Local Setup)
 
-Clone this repo and install dependencies:
+### 1️⃣ Setup Chrome Extension
+1. Zip the folder: `chrome_extension`  
+2. Open Chrome → go to `chrome://extensions/`  
+3. Enable **Developer Mode**  
+4. Click **Load unpacked** → select the `chrome_extension` folder  
+5. Highlight any text → side panel opens and calls your deployed backend  
 
+### 2️⃣ Setup Backend
+1. Navigate to the backend folder: `factCheckMCP`  
+2. Install dependencies:  
 ```bash
-git clone https://github.com/<your-username>/gem.git
-cd gem
+pip install -r requirements.txt
