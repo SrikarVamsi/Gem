@@ -1,10 +1,33 @@
-# 💎 Gem – Select->Verify->Understand
+# 💎 Gem – Select → Verify → Understand
 
 <p align="center">
   <img src="https://github.com/SrikarVamsi/Gem/blob/main/logo.png" alt="Gem Logo" width="200">
 </p>
 
-> **Instant fact-checking, right where misinformation spreads.**  
+> **Instant fact-checking, right where misinformation spreads.**
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tech-FastAPI%20|%20Gemini-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/SrikarVamsi/Gem?style=social" />
+</p>
+
+---
+
+## 📑 Table of Contents
+- [🚨 The Problem](#-the-problem)  
+- [💡 Our Solution – Gem](#-our-solution--gem)  
+- [🎥 How It Works](#-how-it-works-workflow)  
+- [🖼️ Screenshots](#-screenshots)  
+- [🛠️ Tech Stack](#-tech-stack)  
+- [🔥 Features Roadmap](#-features-roadmap)  
+- [⚡ Quick Start](#-quick-start-local-setup)  
+- [🤝 Contributing](#-contributing)  
+- [📜 License](#-license)  
+- [🙌 Acknowledgements](#-acknowledgements)  
 
 ---
 
@@ -12,7 +35,7 @@
 Misinformation spreads faster than the truth.  
 From fake WhatsApp forwards to scam messages and manipulated news, it has become one of the **biggest threats to society**.  
 
-- ❌ Social unrest fueled by false claims   
+- ❌ Social unrest fueled by false claims  
 - ❌ Public health crises triggered by misinformation  
 - ❌ Financial scams stealing money from the vulnerable  
 
@@ -46,15 +69,15 @@ Meet **Gem**, your **real-time fact-checking Chrome extension**, powered by **Go
 6. Side panel shows: Verdict ✅, Confidence Bar 📊, Evidence Cards 📰.  
 7. User can share or save report.  
 
-![Workflow Diagram](./assets/workflow.png)
+![Workflow Diagram]("https://github.com/SrikarVamsi/Gem/blob/main/workflow.png")
 
 ---
 
 ## 🖼️ Screenshots
-
-| Select Text | Gemini Verifying | Results Displayed |
-|-------------|-----------------|-----------------|
-| ![](./assets/step1.png) | ![](./assets/step2.png) | ![](./assets/step3.png) |
+<p align="center">
+  <img src="https://github.com/SrikarVamsi/Gem/blob/main/Initial.png" width="400" />
+  <img src="https://github.com/SrikarVamsi/Gem/blob/main/Side_Panel.png" width="400" />
+</p>
 
 ---
 
@@ -86,21 +109,31 @@ Meet **Gem**, your **real-time fact-checking Chrome extension**, powered by **Go
 - 🌍 Multi-language support (Hindi, Telugu, Tamil, etc)  
 - 📱 Mobile-friendly interface (via companion app)  
 - 🛡️ Community-powered misinformation reports  
-- 📊 Analytics dashboard for trends  
+- 📊 Analytics dashboard for misinformation trends  
 
 ---
 
 ## ⚡ Quick Start (Local Setup)
 
-### 1️⃣ Setup Chrome Extension
+<details>
+<summary>1️⃣ Setup Chrome Extension</summary>
+
 1. Zip the folder: `chrome_extension`  
 2. Open Chrome → go to `chrome://extensions/`  
 3. Enable **Developer Mode**  
 4. Click **Load unpacked** → select the `chrome_extension` folder  
 5. Highlight any text → side panel opens and calls your deployed backend  
+</details>
 
-### 2️⃣ Setup Backend
-1. Navigate to the backend folder: `factCheckMCP`  
-2. Install dependencies:  
+<details>
+<summary>2️⃣ Setup Backend</summary>
+
 ```bash
+# Navigate to backend folder
+cd factCheckMCP
+
+# Install dependencies
 pip install -r requirements.txt
+
+# Run locally
+uvicorn main:app --reload
