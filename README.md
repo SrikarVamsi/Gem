@@ -20,7 +20,7 @@
 ## 🎬 Demo Video
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1CJ3LxlQ6htySaOpiVdhl5stvWrD6Tf-0/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/1tG9NC26qAfOnEeB7QPRlJta7P6iA2n6-/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge" alt="Demo Video" />
   </a>
 </p>
