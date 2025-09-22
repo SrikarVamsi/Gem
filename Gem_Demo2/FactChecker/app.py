@@ -323,8 +323,9 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# Backend configuration - UPDATE THIS URL TO MATCH YOUR BACKEND
-BACKEND_URL = "http://127.0.0.1:8080"  # Change this to your actual backend URL
+# Backend configuration - Uses environment variable for deployment
+import os
+BACKEND_URL = os.getenv("BACKEND_URL", "https://gem-production-f95b.up.railway.app")
 
 def get_verdict_class(label: str) -> str:
     """Convert label to CSS class for styling"""
