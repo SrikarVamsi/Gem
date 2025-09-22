@@ -131,6 +131,8 @@ Meet **Gem**, your **real-time fact-checking Chrome extension**, powered by **Go
 
 ## ⚡ Quick Start (Local Setup)
 
+Since it is a chrome extension, you can set it up in your browser with the below steps, Don't forget to run the BACKEND SERVER first to get to see the extension in real time action!
+
 <details>
 <summary>1️⃣ Setup Chrome Extension</summary>
 
