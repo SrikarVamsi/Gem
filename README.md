@@ -136,4 +136,4 @@ cd factCheckMCP
 pip install -r requirements.txt
 
 # Run locally
-uvicorn main:app --reload
+python3 main.py
