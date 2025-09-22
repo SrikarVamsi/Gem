@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tech-FastAPI%20|%20Gemini-blue?style=flat-square" />
+ 
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
   <img src="https://img.shields.io/github/stars/SrikarVamsi/Gem?style=social" />
 </p>
@@ -99,25 +99,33 @@ Meet **Gem**, your **real-time fact-checking Chrome extension**, powered by **Go
 
 ## 🛠️ Tech Stack
 
-**Frontend (Chrome Extension)**  
-- Manifest V3, Vanilla JS, CSS3  
-- Chrome APIs: `sidePanel`, `contextMenus`, `storage`  
+## 🛠️ Tech Stack
 
-**Backend (FastAPI MCP Server)**  
-- FastAPI, HTTPX, BeautifulSoup4, Tenacity, Pydantic  
+### 🤖 AI & Intelligence
+- **Gemini 2.5 Flash** – misinformation detection & explanation  
+- **MCP Integration** – structured JSON outputs (`label`, `explanation`, `confidence`, `evidence`)  
+- **Vertex AI** – scalable model orchestration & monitoring  
+- **Responsible AI APIs** – toxicity & bias filtering  
+- **LangChain** – AI pipeline flexibility  
 
-**AI Layer**  
-- Google Gemini 1.5 Flash (via MCP)  
-- Structured JSON outputs: `{ label, explanation, confidence, evidence }`  
+### 🌐 Frontend (Chrome Extension)
+- **Chrome Extension (Manifest V3)** – `sidePanel`, `contextMenus`, `storage`  
+- **Vanilla JS + CSS3** – lightweight, fast UI  
+- **Material Design 3** – Google’s clean design system  
+- **LocalStorage / IndexedDB** – caching previous checks  
+- **Firebase Authentication** – user profiles  
 
-**Sources**  
-- PIB, AltNews, BoomLive, Reuters, WHO, Wikipedia  
+### ⚡ Backend (API & Scraping)
+- **FastAPI (MCP Server)** – core API engine  
+- **HTTPX + BeautifulSoup4 + Tenacity** – robust scraping & retries  
+- **Pydantic** – structured data validation  
 
-**Google Cloud (Infra)**  
-- Cloud Run (deployment)  
-- Secret Manager (secure keys)  
-- Cloud Logging (usage & errors)  
-- BigQuery / Firestore (analytics)  
+### ☁️ Infrastructure (Google Cloud)
+- **Cloud Run** – serverless FastAPI deployment  
+- **Secret Manager** – secure API key storage  
+- **Cloud Logging & Monitoring** – performance & reliability tracking  
+- **BigQuery & Firestore** – analytics & storage  
+
 
 ---
 
