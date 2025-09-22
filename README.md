@@ -17,6 +17,16 @@
 
 ---
 
+## 🎬 Demo Video
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1CJ3LxlQ6htySaOpiVdhl5stvWrD6Tf-0/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge" alt="Demo Video" />
+  </a>
+</p>
+
+---
+
 ## 📑 Table of Contents
 - [🚨 The Problem](#-the-problem)  
 - [💡 Our Solution – Gem](#-our-solution--gem)  
