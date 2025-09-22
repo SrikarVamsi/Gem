@@ -291,12 +291,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Contact
 
-- **Developer**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
+- **Developer**: Team Level Up
+
 
 ---
 
 **Made with ❤️ for better information verification**
 
 _Gem - Your trusted AI fact-checking companion_
+
