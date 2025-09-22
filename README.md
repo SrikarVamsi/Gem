@@ -33,7 +33,12 @@ Option 1: Chrome Extension (Full Experience)
 
 Option 2: Web Demo (Fastest)
 
-- Visit the web demo link : 
+- Visit the web demo link :
+  <p align="center">
+  <a href="gem-production-c560.up.railway.app" target="_blank">
+    
+  </a>
+</p>
 - Try the sample claims or enter your own
 - See real-time fact-checking with AI analysis
 
