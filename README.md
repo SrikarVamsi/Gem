@@ -20,7 +20,8 @@
 ## **Note**
 To test our prototype, here are the optioms:
 
-Option 1: Chrome Extension (Full Experience) - check the Quick Start section to see how to run the backend before adding the extension to Chrome.
+Option 1: Chrome Extension (Full Experience) 
+- Check the Quick Start section  ([⚡ Quick Start](#-quick-start-local-setup)) to see how to run the backend before adding the extension to Chrome.
 
 - Download gem-extension.zip
 - Run the MCP backend
