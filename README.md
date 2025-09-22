@@ -22,19 +22,19 @@ To test our prototype, here are the optioms:
 
 Option 1: Chrome Extension (Full Experience) - check the Quick Start section to see how to run the backend before adding the extension to Chrome.
 
-Download gem-extension.zip
-Run the MCP backend
-Open Chrome → chrome://extensions/
-Enable "Developer mode" (top right)
-Click "Load unpacked" → Select extracted folder
-Visit any webpage, highlight text → Gem side panel opens
+- Download gem-extension.zip
+- Run the MCP backend
+- Open Chrome → chrome://extensions/
+- Enable "Developer mode" (top right)
+- Click "Load unpacked" → Select extracted folder
+- Visit any webpage, highlight text → Gem side panel opens
 
 
 Option 2: Web Demo (Fastest)
 
-Visit the web demo link : 
-Try the sample claims or enter your own
-See real-time fact-checking with AI analysis
+- Visit the web demo link : 
+- Try the sample claims or enter your own
+- See real-time fact-checking with AI analysis
 
 --- 
 
