@@ -99,8 +99,6 @@ Meet **Gem**, your **real-time fact-checking Chrome extension**, powered by **Go
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### 🤖 AI & Intelligence
 - **Gemini 2.5 Flash** – misinformation detection & explanation  
 - **MCP Integration** – structured JSON outputs (`label`, `explanation`, `confidence`, `evidence`)  
