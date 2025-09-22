@@ -69,7 +69,13 @@ Meet **Gem**, your **real-time fact-checking Chrome extension**, powered by **Go
 6. Side panel shows: Verdict ✅, Confidence Bar 📊, Evidence Cards 📰.  
 7. User can share or save report.  
 
-![Workflow Diagram]("https://github.com/SrikarVamsi/Gem/blob/main/workflow.png")
+<p align="center">
+  <img src="https://github.com/SrikarVamsi/Gem/blob/main/Architecture.jpeg" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/SrikarVamsi/Gem/blob/main/assets/Use_Case.jpeg" width="600" />
+</p>
 
 ---
 
