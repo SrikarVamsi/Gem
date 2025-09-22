@@ -33,14 +33,15 @@ Option 1: Chrome Extension (Full Experience)
 
 Option 2: Web Demo (Fastest)
 
-- Visit the web demo link :
-  <p align="center">
+- Visit the web demo link:  
+<p align="center">
   <a href="https://gem-production-c560.up.railway.app/" target="_blank">
-    
+    🌐 Open Gem Web Demo
   </a>
 </p>
-- Try the sample claims or enter your own
-- See real-time fact-checking with AI analysis
+
+- Try the sample claims or enter your own.  
+- See real-time fact-checking with AI analysis.
 
 --- 
 
