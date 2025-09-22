@@ -70,11 +70,11 @@ Meet **Gem**, your **real-time fact-checking Chrome extension**, powered by **Go
 7. User can share or save report.  
 
 <p align="center">
-  <img src="https://github.com/SrikarVamsi/Gem/blob/main/Architecture.jpeg" width="600" />
+  <img src="https://github.com/SrikarVamsi/Gem/blob/main/Architecure.jpeg" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/SrikarVamsi/Gem/blob/main/assets/Use_Case.jpeg" width="600" />
+  <img src="https://github.com/SrikarVamsi/Gem/blob/main/Use_Case.jpeg" width="600" />
 </p>
 
 ---
