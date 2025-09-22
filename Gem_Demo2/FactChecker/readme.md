@@ -62,7 +62,7 @@
 
 4. **Start the backend server**:
    ```bash
-   python main.py
+   python3 main.py
    ```
    The server will run on `http://127.0.0.1:8080`
 
@@ -299,4 +299,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Made with ❤️ for better information verification**
 
 _Gem - Your trusted AI fact-checking companion_
+
 
