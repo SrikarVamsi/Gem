@@ -35,7 +35,7 @@
 - [🛠️ Tech Stack](#-tech-stack)  
 - [🔥 Features Roadmap](#-features-roadmap)  
 - [⚡ Quick Start](#-quick-start-local-setup)  
-- [🤝 Contributing](#-contributing)  
+
 - [📜 License](#-license)  
 - [🙌 Acknowledgements](#-acknowledgements)  
 
@@ -161,3 +161,18 @@ pip install -r requirements.txt
 
 # Run locally
 python3 main.py
+
+```
+
+## 📜 License
+This project is licensed under the MIT License.  
+
+
+---
+
+## 🙌 Acknowledgements
+We would like to thank the following for their support and inspiration:
+
+- Google GEN AI Exchange Hackathon
+- Team members of 'TEAM LEVEL UP':
+- 
