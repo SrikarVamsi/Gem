@@ -157,7 +157,6 @@ Meet **Gem**, your **real-time fact-checking Chrome extension**, powered by **Go
 
 ## 🔥 Features Roadmap
 - 🌍 Multi-language support (Hindi, Telugu, Tamil, etc)  
-- 📱 Mobile-friendly interface (via companion app)  
 - 🛡️ Community-powered misinformation reports  
 - 📊 Analytics dashboard for misinformation trends  
 
