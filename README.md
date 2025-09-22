@@ -164,6 +164,8 @@ python3 main.py
 
 ```
 
+---
+
 ## 📜 License
 This project is licensed under the MIT License.  
 
@@ -175,4 +177,7 @@ We would like to thank the following for their support and inspiration:
 
 - Google GEN AI Exchange Hackathon
 - Team members of 'TEAM LEVEL UP':
-- 
+    - Sri Chandra
+    - Omkar
+    - Srikar
+    - Kavya 
